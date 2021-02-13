@@ -1,6 +1,3 @@
-export default Text = ({ children }) => {
-  return {
-    type: "div",
-    children,
-  };
-};
+const Text = () => <p>Hello</p>;
+
+export default Text;
