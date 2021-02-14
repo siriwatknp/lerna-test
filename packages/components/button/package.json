@@ -1,6 +1,6 @@
 {
   "name": "@siriwatkunaporn/component-button",
-  "main": "index.js",
+  "main": "dist/index.js",
   "version": "1.0.1",
   "scripts": {
     "build": "rimraf dist && tsc"
