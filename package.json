@@ -18,7 +18,9 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.1.5"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@siriwatknp/component-button": "^1.0.4"
+  },
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
