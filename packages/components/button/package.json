@@ -1,8 +1,9 @@
 {
-  "name": "@siriwatkunaporn/component-button",
+  "name": "@siriwatknp/component-button",
   "main": "dist/index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "build": "rimraf dist && tsc"
-  }
+  },
+  "gitHead": "58d9627edb8ca7a212a8e2391eafbc678f59a3ce"
 }
