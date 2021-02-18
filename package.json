@@ -21,6 +21,9 @@
   "dependencies": {},
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "prerelease": "npm test && npx lerna version --no-push",
+    "release": "npx lerna publish from-git --yes",
+    "postrelease": "git push --follow-tags origin"
   }
 }

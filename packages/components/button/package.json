@@ -5,5 +5,5 @@
   "scripts": {
     "build": "rimraf dist && tsc"
   },
-  "gitHead": "58d9627edb8ca7a212a8e2391eafbc678f59a3ce"
+  "gitHead": "9323ab3c8c139968b66963f5e83e8d9685b62829"
 }
